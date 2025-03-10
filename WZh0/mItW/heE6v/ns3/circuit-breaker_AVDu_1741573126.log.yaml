@@ -1,7 +1,6 @@
 linters:
   enable:
   - gofmt
-  - goimports
   - gosec
   - misspell
 issues:
