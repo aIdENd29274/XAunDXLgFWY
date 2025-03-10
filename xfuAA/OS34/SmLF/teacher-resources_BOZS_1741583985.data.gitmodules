@@ -15,7 +15,6 @@
 	url = https://github.com/nathancharlesjones/Stripboard-single.git
 [submodule "Printed-Circuit-Boards/Prototyping-PCBs/Stripboard-Panelized"]
 	path = Printed-Circuit-Boards/Prototyping-PCBs/Stripboard-Panelized
-	url = https://github.com/nathancharlesjones/Stripboard-panelized.git
 [submodule "Getting-Started-Guides/MSP430"]
 	path = Getting-Started-Guides/MSP430
 	url = https://github.com/nathancharlesjones/Getting-Started-with-the-MSP430.git
