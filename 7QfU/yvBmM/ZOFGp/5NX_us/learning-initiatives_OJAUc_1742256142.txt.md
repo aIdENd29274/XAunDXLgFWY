@@ -18,7 +18,6 @@ Crackme is a small program designed as an object of reverse engineering. Crackme
 
 Crackme can be divided as several categories, based on characteristics or goal for beat the challenge.
 - CrackMe
-  Defeat or eliminate the protection of program so it can run smoothly without limitation (trial).
 - KeygenMe
   Create a program for generating valid serial number that is acceptable by program.
 - UnpackMe
