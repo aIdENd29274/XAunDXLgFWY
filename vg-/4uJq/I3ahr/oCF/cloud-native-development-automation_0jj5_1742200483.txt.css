@@ -69,7 +69,6 @@ svg{
 
 #man{
     animation: manBody 1s ease-in-out infinite alternate;
-    transform-box: fill-box;
     transform-origin: bottom;
 }
 
