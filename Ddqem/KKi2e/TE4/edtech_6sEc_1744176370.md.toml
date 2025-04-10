@@ -3,7 +3,6 @@ version = 1
 test_patterns = [
   "test/**.py",
   "tests/**.py",
-  "test*.py",
   "*.spec.js"
 ]
 
